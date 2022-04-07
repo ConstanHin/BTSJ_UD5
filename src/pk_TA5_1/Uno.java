@@ -4,6 +4,8 @@ public class Uno {
 
 	public static void main(String[] args) {
 		
+		// Comparación de dos valores
+		
 		int first = 2;
 		int second = 3;
 		
